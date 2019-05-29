@@ -1,0 +1,5 @@
+c:\users\emo\documents\visual studio 2013\Projects\firstStepsDemo\firstStepsDemo\bin\Debug\firstStepsDemo.exe.config
+c:\users\emo\documents\visual studio 2013\Projects\firstStepsDemo\firstStepsDemo\bin\Debug\firstStepsDemo.exe
+c:\users\emo\documents\visual studio 2013\Projects\firstStepsDemo\firstStepsDemo\bin\Debug\firstStepsDemo.pdb
+c:\users\emo\documents\visual studio 2013\Projects\firstStepsDemo\firstStepsDemo\obj\Debug\firstStepsDemo.exe
+c:\users\emo\documents\visual studio 2013\Projects\firstStepsDemo\firstStepsDemo\obj\Debug\firstStepsDemo.pdb
